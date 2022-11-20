@@ -6,7 +6,7 @@ Focusing more on:
 
 Going over
 - importing structured / unstructured data 
-- transforming the data ( power query ) clean data
+- cleaning the data
 - creating lookup tables
 - merging queries
 - data modeling 
